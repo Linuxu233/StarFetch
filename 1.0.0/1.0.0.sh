@@ -13,8 +13,8 @@ echo -e '\033[33m \______/    \____/  \_______|\__|      \__|    \_______|  \___
 # This is the writer of the starfetch
 
 echo -e '\033[32m--------------------------------------------------------------------------------------'
-echo -e '\033[33m developer: Linus Shyu'
-echo -e '\033[33m email: awmtft@163.com'
+echo -e '\033[33m developer: Linuxu'
+echo -e '\033[33m email: linuxu233@gmail.com'
 echo -e '\033[32m--------------------------------------------------------------------------------------'
 echo -e '\033[36m   '
 echo -e '\033[36m   '
